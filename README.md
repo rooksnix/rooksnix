@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rooksnix
 - 👀 I’m interested in Linux, Linux Networking and (large) application performance testing.
-- 🌱 I’m currently learning a bit of python and sockets outside of work. In work it is mostly C.
-- 💞️ I’m looking to collaborate on application QA, proof reading and grammar checking (English).
+- 🌱 I’m currently learning a bit of python and bash.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me rooksy@gmail.com.
 
 <!---
